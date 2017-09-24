@@ -1,0 +1,11 @@
+<html>
+
+<body>
+
+<h1> INI HRUF BESAR </h1>
+
+<?php echo "<h1> Ini Huruf besar 2</h1>"; ?>
+
+<h3>wkwkkwkwkkw</h3>
+
+</html>
