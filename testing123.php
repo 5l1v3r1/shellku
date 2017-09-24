@@ -1,5 +1,5 @@
 <?php
 
-phpinfo();
+echo "<body>Testingphp</body>";
 
 ?>
